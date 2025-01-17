@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.ecommerce-backend/node_modules/
+
+# Archivos y carpetas de entorno
+.ecommerce-backend/.env
+
+# Build output
+ecommerce-backend/dist/
+ecommerce-frontend/build/
+
+# Archivos de configuración de IDE (Visual Studio, etc)
+.vscode/
+.idea/
